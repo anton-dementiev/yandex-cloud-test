@@ -1,0 +1,14 @@
+{
+  "name": "yandex-app",
+  "version": "1.0.0",
+  "description": "app to test yandex cloud virtual machine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
